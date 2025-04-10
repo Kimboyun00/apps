@@ -2,6 +2,7 @@ data/
 csv/
 OT/
 test_csv/
+classification_algorithm/
 .venv
 .venv/
 .env
